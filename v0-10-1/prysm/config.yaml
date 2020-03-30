@@ -1,1 +1,5 @@
+contract-deployment-block: 0x23ef57   # base-10: 2355031
+deposit-contract: 0xaA888248144Bc5d584a7f400839d0D912F21C39A
+interop-genesis-state: ./prysm/genesis.ssz
+interop-genesis-time: 1584316800
 interop-num-validators: 16
